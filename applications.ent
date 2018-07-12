@@ -1,0 +1,28 @@
+<!-- ============================================================= -->
+<!--                    Applications                               -->
+<!-- ============================================================= -->
+
+<!ENTITY nautilus      "&gnome; Files">
+<!ENTITY musicplayer   "Banshee">
+<!ENTITY musicplayerreg "Banshee&trade;">
+<!ENTITY aa            "<phrase xmlns='http://docbook.org/ns/docbook'>AppArmor</phrase>">
+<!ENTITY aareg         "<phrase xmlns='http://docbook.org/ns/docbook'>AppArmor&reg;</phrase>">
+<!ENTITY sudo          "<command xmlns='http://docbook.org/ns/docbook'>sudo</command>">
+<!ENTITY pk            "PolKit">
+<!ENTITY mariadb       "Maria DB">
+<!ENTITY selnx         "SELinux">
+<!ENTITY postgresql    "PostgreSQL">
+<!ENTITY mysql         "MariaDB">
+<!ENTITY jeos          "JeOS"><!-- Just enough OS -->
+<!ENTITY stap          "SystemTap">
+<!ENTITY oprof         "OProfile">
+<!ENTITY cpufreq       "CPUfreq">
+<!ENTITY powertop      "powerTOP">
+<!ENTITY gpg           "GPG"> <!-- or GnuGP -->
+<!ENTITY kexec         "Kexec">
+<!ENTITY kdump         "Kdump">
+<!ENTITY kprobes       "Kprobes">
+<!ENTITY salt          "Salt">
+<!ENTITY kube          "Kubernetes">
+<!ENTITY helm          "Helm">
+<!ENTITY tiller        "Tiller">

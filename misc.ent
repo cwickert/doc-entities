@@ -1,0 +1,34 @@
+<!-- ============================================================= -->
+<!--                    Miscellaneous                              -->
+<!-- ============================================================= -->
+
+<!ENTITY thrdmrk       "*">
+<!ENTITY euro          "&#x20AC;">
+<!ENTITY ptp           "Precision Time Protocol">
+<!ENTITY ntp           "Network Time Protocol">
+<!ENTITY altf2         "<keycombo xmlns='http://docbook.org/ns/docbook'><keycap function='alt'/><keycap>F2</keycap></keycombo>">
+<!ENTITY admin_node    "administration node">
+<!ENTITY Admin_node    "Administration node">
+<!ENTITY Admin_Node    "Administration Node">
+<!ENTITY master_node   "master node">
+<!ENTITY Master_node   "Master node">
+<!ENTITY Master_Node   "Master Node">
+<!ENTITY worker_node   "worker node">
+<!ENTITY Worker_node   "Worker node">
+<!ENTITY Worker_Node   "Worker Node">
+<!ENTITY cluster_node  "cluster node">
+<!ENTITY Cluster_node  "Cluster node">
+<!ENTITY Cluster_Node  "Cluster Node">
+<!ENTITY smaster       "&salt; master">
+<!ENTITY sminion       "&salt; minion">
+<!ENTITY dashboard     "Velum">
+<!ENTITY kmaster       "&kube; master">
+<!ENTITY kworker       "&kube; worker">
+<!ENTITY kubeconfig    "<filename xmlns='http://docbook.org/ns/docbook'>kubeconfig</filename>">
+<!ENTITY kubectl       "<command xmlns='http://docbook.org/ns/docbook'>kubectl</command>">
+<!ENTITY tupdate       "<command xmlns='http://docbook.org/ns/docbook'>transactional-update</command>">
+<!ENTITY caasp-cli     "<command xmlns='http://docbook.org/ns/docbook'>caasp-cli</command>">
+<!ENTITY mac           "<replaceable xmlns='http://docbook.org/ns/docbook'>MAC</replaceable>">
+<!ENTITY hwmac         "hwtype.<replaceable xmlns='http://docbook.org/ns/docbook'>MAC</replaceable>">
+<!ENTITY confmac       "config.<replaceable xmlns='http://docbook.org/ns/docbook'>MAC</replaceable>">
+<!ENTITY btrfs         "Btrfs">

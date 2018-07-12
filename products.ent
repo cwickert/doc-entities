@@ -1,0 +1,59 @@
+<!-- ====================================================================== -->
+<!-- Company and Products                                                   -->
+<!-- ====================================================================== -->
+
+<!ENTITY suse       "SUSE">
+<!ENTITY novell     "Novell">
+<!ENTITY suselinux  "&suse; Linux">
+
+<!ENTITY cap       "Cloud Application Platform">
+<!ENTITY scf       "&suse; Cloud Foundry">
+
+<!ENTITY obs  "Open Build Service">
+<!ENTITY obsa "OBS">
+
+<!ENTITY scc        "&suse; Customer Center">
+<!ENTITY sccreg     "&suse;&reg; Customer Center">
+<!ENTITY sccurl     "https://scc.suse.com/">
+
+<!ENTITY yast       "YaST">
+<!ENTITY yastcc     "<guimenu xmlns='http://docbook.org/ns/docbook'>&yast; Control Center</guimenu>">
+<!ENTITY ycc_runlevel  "Services Manager">
+<!ENTITY ycc_services_manager  "Services Manager">
+<!ENTITY ay         "AutoYaST">
+
+<!ENTITY susefirewall  "SuSEFirewall2">
+<!ENTITY susefirewallfiles  "SuSEfirewall2">
+<!ENTITY suseconnect   "SUSEConnect">
+
+<!ENTITY kiwi        "KIWI">
+
+<!ENTITY opensuse    "openSUSE">
+<!ENTITY opensusereg "openSUSE&reg;">
+<!ENTITY sle         "SUSE Linux Enterprise">
+<!ENTITY slea        "SLE">
+<!ENTITY slereg      "SUSE&reg; Linux Enterprise">
+<!ENTITY slert       "&sle; Real Time">
+<!ENTITY slerta      "&sle; RT">
+<!ENTITY slerte      "&slert; Extension">
+<!ENTITY slertreg    "&slereg; Real Time">
+<!ENTITY slertereg   "&slereg; Real Time Extension">
+<!ENTITY sls         "SUSE Linux Enterprise Server">
+<!ENTITY slsa        "SLES">
+<!ENTITY slsreg      "SUSE&reg; Linux Enterprise Server">
+<!ENTITY slemm       "&sle; Maintenance Model">
+<!ENTITY sled        "SUSE Linux Enterprise Desktop">
+<!ENTITY sleda       "SLED">
+<!ENTITY sledreg     "SUSE&reg; Linux Enterprise Desktop">
+<!ENTITY sdk         "SUSE Software Development Kit">
+<!ENTITY slreg       "SUSE&reg; Linux">
+<!ENTITY slepos      "SUSE Linux Enterprise Point of Service">
+<!ENTITY sleposreg   "SUSE&reg; Linux Enterprise Point of Service">
+<!ENTITY hasi        "High Availability Extension">
+<!ENTITY hageo       "GEO Clustering for &sle; &hasi;">
+<!ENTITY susemgr     "&suse; Manager">
+<!ENTITY smtool      "Subscription Management Tool">
+<!ENTITY smt         "SMT">
+<!ENTITY mos         "MicroOS">
+<!ENTITY soc         "&suse; OpenStack Cloud">
+<!ENTITY ses         "&suse; Enterprise Storage">

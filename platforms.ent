@@ -1,0 +1,19 @@
+<!-- ============================================================= -->
+<!--                    Platforms                                  -->
+<!-- ============================================================= -->
+
+<!ENTITY x86           "x86">
+<!ENTITY amd64         "AMD64">
+<!ENTITY zseries       "z&nbsp;Systems">
+<!ENTITY ipseries      "POWER">
+<!ENTITY ppc           "POWER">
+<!ENTITY power         "POWER">
+<!ENTITY intel64       "Intel&nbsp;64">
+<!ENTITY x86-64        "&amd64;/&intel64;">
+<!ENTITY arm           "ARM">
+<!ENTITY aarch64       "AArch64">
+<!ENTITY arm64         "&arm;&nbsp;&aarch64;">
+
+<!ENTITY powerlinux    "PowerLinux">
+<!ENTITY powerkvm      "PowerKVM">
+

@@ -1,0 +1,20 @@
+<!ENTITY xenstore      "XenStore">
+<!ENTITY lxc           "LXC">
+<!ENTITY xen           "Xen">
+<!ENTITY xenreg        "Xen&reg;">
+<!ENTITY kvm           "KVM">
+<!ENTITY vmware        "VMware">
+<!ENTITY vmhost        "VM Host Server">
+<!ENTITY vmguest       "VM Guest">
+<!ENTITY dom0          "Dom0">
+<!ENTITY lvmcache      "<systemitem xmlns='http://docbook.org/ns/docbook' class='resource'>lvmcache</systemitem>">
+<!ENTITY bcache        "<systemitem xmlns='http://docbook.org/ns/docbook' class='resource'>bcache</systemitem>">
+<!ENTITY libvirt       "<systemitem xmlns='http://docbook.org/ns/docbook' class='library'>libvirt</systemitem>">
+<!ENTITY libvirtd      "<systemitem xmlns='http://docbook.org/ns/docbook' class='daemon'>libvirtd</systemitem>">
+<!ENTITY vmm           "Virtual Machine Manager">
+<!ENTITY qemu          "QEMU">
+<!ENTITY qemusystemarch "<command xmlns='http://docbook.org/ns/docbook'>qemu-system-<replaceable>ARCH</replaceable></command>">
+<!ENTITY pciback       "PCI Pass-Through">
+<!ENTITY usbback       "USB Pass-Through">
+<!ENTITY vgaback       "VGA Pass-Through">
+<!ENTITY lvs           "Linux Virtual Server">

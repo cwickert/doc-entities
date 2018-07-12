@@ -1,0 +1,50 @@
+
+
+<!-- ============================================================= -->
+<!-- Do not change                                                 -->
+<!-- ============================================================= -->
+
+<!ENTITY % product-entities SYSTEM "products.ent">
+%products-entities;
+
+<!ENTITY % user-entities SYSTEM "users.ent">
+%user-entities;
+
+<!ENTITY % user-entities SYSTEM "linux.ent">
+%linux-entities;
+
+<!ENTITY % application-entities SYSTEM "applications.ent">
+%application-entities;
+
+<!ENTITY % virtualization-entities SYSTEM "virtualization.ent">
+%virtualization-entities;
+
+<!ENTITY % ha-entities SYSTEM "ha.ent">
+%ha-entities;
+
+<!ENTITY % book-entities SYSTEM "books.ent">
+%book-entities;
+
+<!ENTITY % platforms-entities SYSTEM "platforms.ent">
+%platforms-entities;
+
+<!ENTITY % misc-entities SYSTEM "misc.ent">
+%misc-entities;
+
+<!ENTITY % prompt-entities SYSTEM "prompts.ent">
+%prompt-entities;
+
+<!ENTITY % user-entities SYSTEM "users.ent">
+%user-entities;
+
+<!ENTITY % network-entities SYSTEM "network-decl.ent">
+%network-entities;
+
+<!ENTITY % sgml.features "IGNORE">
+<!ENTITY % xml.features "INCLUDE">
+<!ENTITY % dbcent PUBLIC "-//OASIS//ENTITIES DocBook Character Entities V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/dbcentx.mod">
+  %dbcent;
+
+<!--                             End of file                       -->
+<!-- ............................................................. -->
+

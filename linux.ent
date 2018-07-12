@@ -1,0 +1,27 @@
+<!-- ====================================================================== -->
+<!-- Linux                                                                  -->
+<!-- ====================================================================== -->
+
+<!ENTITY grub           "GRUB 2">
+<!ENTITY grub-efi       "GRUB 2 for EFI">
+<!ENTITY gnome          "GNOME">
+
+<!ENTITY xgeneric       "X Window System">
+<!ENTITY xvendor        "X.Org">
+<!ENTITY gnomecc        "&gnome; control center">
+<!ENTITY nm             "NetworkManager">
+<!ENTITY fspot          "Shotwell">
+<!ENTITY yelp           "Help">
+
+<!ENTITY ovs            "<phrase role='productname' xmlns='http://docbook.org/ns/docbook'>Open vSwitch</phrase>">
+<!ENTITY netteam       "Network Teaming">
+
+<!-- daemons -->
+<!ENTITY systemd       "<systemitem xmlns='http://docbook.org/ns/docbook' class='daemon'>systemd</systemitem>">
+<!ENTITY crond         "<systemitem xmlns='http://docbook.org/ns/docbook' class='daemon'>cron</systemitem>">
+<!ENTITY oprofd        "<systemitem xmlns='http://docbook.org/ns/docbook' class='daemon'>oprofile</systemitem>">
+
+<!ENTITY mac           "<replaceable xmlns='http://docbook.org/ns/docbook'>MAC</replaceable>">
+<!ENTITY hwmac         "hwtype.<replaceable xmlns='http://docbook.org/ns/docbook'>MAC</replaceable>">
+<!ENTITY confmac       "config.<replaceable xmlns='http://docbook.org/ns/docbook'>MAC</replaceable>">
+<!ENTITY btrfs         "Btrfs">

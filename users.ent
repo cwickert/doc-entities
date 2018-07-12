@@ -1,0 +1,24 @@
+<!-- ====================================================================== -->
+<!-- User/Group Names                                                       -->
+<!-- ====================================================================== -->
+
+
+<!-- Use exampleuser in text
+     Use exampleuser_plain in screen, command, option and prompt -->
+
+<!ENTITY exampleuserfull "Tux Linux">
+<!ENTITY exampleuserid "tux">
+<!ENTITY exampleuser "<systemitem xmlns='http://docbook.org/ns/docbook' class='username'>&exampleuserid;</systemitem>">
+
+<!ENTITY exampleuser2full  "Wilber Fox">
+<!ENTITY exampleuser2id "wilber">
+<!ENTITY exampleuser2  "<systemitem xmlns='http://docbook.org/ns/docbook' class='username'>&exampleuser2id;</systemitem>">
+
+<!ENTITY exampleuser3full "Suzanne Geeko">
+<!ENTITY exampleuser3id "geeko">
+<!ENTITY exampleuser3 "<systemitem xmlns='http://docbook.org/ns/docbook' class='username'>exampleuser3id</systemitem>">
+
+<!ENTITY examplegroup_plain "users">
+<!ENTITY examplegroup   "<systemitem xmlns='http://docbook.org/ns/docbook' class='groupname'>users</systemitem>">
+
+<!ENTITY rootuser "<systemitem xmlns='http://docbook.org/ns/docbook' class='username'>root</systemitem>">
